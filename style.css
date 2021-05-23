@@ -27,14 +27,14 @@ body {
 }
 
 .resume {
-  width: 800px;
+  width: 900px;
   height: auto;
   display: flex;
   margin: 50px auto;
 }
 
 .resume .resume_left {
-  width: 280px;
+  width: 380px;
   background: #0bb5f4;
 }
 
@@ -197,7 +197,7 @@ body {
   top: 14px;
   left: -21px;
   width: 2px;
-  height: 115px;
+  height: 300px;
   background: #0bb5f4;
 }
 
@@ -231,4 +231,8 @@ body {
 
 .resume .resume_right .resume_hobby ul li:last-child:before {
   display: none;
+}
+
+.publication_item{
+  color: #0bb5f4;
 }
